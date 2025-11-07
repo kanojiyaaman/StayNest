@@ -105,7 +105,7 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 ---
 
 ## **📬 Contact & Support**  
-👨‍💻 **Amit Chaurasia**  
+👨‍💻 **Aman Kannaujiya**  
 📧 Email: [amansk5655@gmail.com](mailto:amansk5655@gmail.com)  
 🔗 LinkedIn: [www.linkedin.com/in/aman-kannaujiya-3b245323a](www.linkedin.com/in/aman-kannaujiya-3b245323a)  
 🔗 GitHub: [https://github.com/kanojiyaaman](https://github.com/kanojiyaaman)  
