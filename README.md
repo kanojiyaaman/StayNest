@@ -48,12 +48,6 @@ npm start
 http://localhost:5000
 ```
 
----
-
-## **📸 Screenshots** *(Add Screenshots for Better Visuals)*  
-![Screenshot (45)](https://github.com/user-attachments/assets/da1eba86-f73b-4378-a485-86d013f7050b)
-
----
 
 ## **📂 Folder Structure**  
 ```bash
