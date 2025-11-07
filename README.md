@@ -1,8 +1,8 @@
-# **Wanderlust – An Airbnb Clone** 🏡🚀  
+# StayNest
 
 ### **A Full-Stack Vacation Rental Platform**  
 
-**Wanderlust** is a feature-rich Airbnb clone built using **Node.js, Express.js, MongoDB, HTML, CSS, and JavaScript**. This platform allows users to book vacation rentals, list properties, and manage bookings seamlessly.  
+****  StayNest is a feature built using **Node.js, Express.js, MongoDB, HTML, CSS, and JavaScript**. This platform allows users to book vacation rentals, list properties, and manage bookings seamlessly.  
 
 ---
 
